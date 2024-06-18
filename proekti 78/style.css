@@ -1,0 +1,19 @@
+.box1 {
+    width: 232px ;
+    height: 297px ;
+    border: 2px solid #CCCCCC;
+    overflow-x: scroll;
+    float: left;
+}
+.text {
+    font-family: "inter";
+}
+@font-face {
+    font-family: "inter" ;
+    src: url("font/Inter-VariableFont_slnt\,wght.ttf");
+}
+.img {
+    width: 560px;
+    height: 646.53px;
+    float: right;
+}
